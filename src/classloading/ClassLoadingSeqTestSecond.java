@@ -37,7 +37,7 @@ class B extends A {
     }
 }
 
-public class ClassLoadingSeqSecond {
+public class ClassLoadingSeqTestSecond {
 
     public static void main(String[] args) {
         System.out.print(A.a_number);//2 访问静态常量 无需初始化类
