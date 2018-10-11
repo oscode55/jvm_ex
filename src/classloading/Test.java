@@ -1,6 +1,6 @@
 package classloading;
 
-
+//测试类的加载
 public class Test {
     static class Parent {
         public static int A = 1;
