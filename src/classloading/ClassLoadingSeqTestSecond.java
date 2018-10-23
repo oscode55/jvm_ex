@@ -3,14 +3,14 @@ package classloading;
 /**
  * @ProjectName: jvm
  * @Package: classloading
- * @ClassName: ClassLoadingSeqTest_2nd
+ * @ClassName: ClassLoadingSeqTestSecond
  * @Author: myname
- * @Description: ${description}
+ * @Description: ${类加载顺序测试}
  * @Date: 2018/10/11 11:00
  * @Version: 1.0
  */
-/*类加载顺序测试*/
-/*类的加载(1.加载2.验证3.准备4.解析5.初始化*/
+
+/*类的加载(1.加载2.验证3.准备4.解析5.初始化)*/
 class A {
     //初始化阶段执行
     static {
