@@ -2,67 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97e26f0c-1969-46e8-87bb-1ad6f5acf8cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/cglib/Main$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/cglib/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/A.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/B.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/ClassLoaderTest$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/ClassLoaderTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/ClassLoadingSeqTestFirst$Parent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/ClassLoadingSeqTestFirst$Sub.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/ClassLoadingSeqTestFirst.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/ClassLoadingSeqTestSecond.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/DeadLoopClass$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/DeadLoopClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/FieldResolution$Interface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/FieldResolution$Parent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/FieldResolution$Sub.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/classloading/FieldResolution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamicagent/AgentProxy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamicagent/CustomerHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamicagent/Interface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamicagent/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamicagent/RealSubject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamiclanguage/InvokeDynamicTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamiclanguage/MethodHandleTest$ClassA.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamiclanguage/MethodHandleTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamiclanguage/Test$Father.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamiclanguage/Test$GrandFather.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamiclanguage/Test$Son.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/dynamiclanguage/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/gcc/FinalizeEscapeGC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/gcc/MinorGC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/gcc/PretenureSizeThreshold.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/gcc/ReferenceCountingGC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/gcc/TenuringThreshold.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/instruction/InstructionTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/instruction/math/RemTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/instruction/math/SHTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/instruction/math/SwitchTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/Dispatch$Father.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/Dispatch$QQ.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/Dispatch$Son.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/Dispatch$_360.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/Dispatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/DynamicDispatch$Human.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/DynamicDispatch$Man.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/DynamicDispatch$Woman.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/DynamicDispatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/StaticDispatch$Human.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/StaticDispatch$Man.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/StaticDispatch$Woman.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/StaticDispatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/methodinvoke/StaticResolution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/outofmemory/DirectMemoryOOM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/outofmemory/RuntimeConstantPoolOOM$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/outofmemory/RuntimeConstantPoolOOM$OOMObject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/outofmemory/RuntimeConstantPoolOOM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/slot/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/temp/MaxAndMin.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/temp/Num.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/temp/PrintO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/temp/PrintQ.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jvm/temp/PrintqAndO.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -163,8 +102,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
-    <option name="y" value="19" />
+    <option name="x" value="-14" />
+    <option name="y" value="41" />
     <option name="width" value="1222" />
     <option name="height" value="697" />
   </component>
@@ -209,12 +148,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -449,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540258799452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update jvm instruction and temp">
+      <created>1540259543897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540259543897</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -462,7 +408,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="88" y="19" width="1222" height="697" extended-state="0" />
+    <frame x="-14" y="41" width="1222" height="697" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3283859" sideWeight="0.49568033" order="6" side_tool="false" content_ui="tabs" />
@@ -472,11 +418,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283859" sideWeight="0.50344235" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32877883" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24149108" sideWeight="0.47840172" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283859" sideWeight="0.49655765" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283859" sideWeight="0.49655765" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39805827" sideWeight="0.4827214" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33390707" sideWeight="0.49320388" order="0" side_tool="false" content_ui="combo" x="695" y="95" width="191" height="508" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33390707" sideWeight="0.49320388" order="0" side_tool="false" content_ui="combo" x="695" y="95" width="191" height="508" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946004" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
