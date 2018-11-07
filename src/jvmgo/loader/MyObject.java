@@ -1,4 +1,4 @@
-package jvmgo;
+package jvmgo.loader;
 
 /**
  * @Author: myname
