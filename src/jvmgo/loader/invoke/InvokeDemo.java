@@ -1,4 +1,4 @@
-package jvmgo.invoke;
+package jvmgo.loader.invoke;
 
 /**
  * @Author: myname
