@@ -1,4 +1,4 @@
-package jvmgo.string;
+package jvmgo.nativemethod.string;
 
 /**
  * @Author: myname
